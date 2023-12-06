@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import ChildComponent from './ChildComponent';
 import {useState} from 'react';
